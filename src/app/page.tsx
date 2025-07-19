@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <>
       <TransitionPage />
-      <Header />
+      <Header/>
       <main>
         <Banner />
         <Properties />
